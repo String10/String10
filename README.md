@@ -4,4 +4,4 @@
 
 ## Here's my Steam!
 
-![Steam Card](https://card.yuy1n.io/card/76561198887664830/radical,badge,badges,games,screenshots)
+[![Steam Card](https://card.yuy1n.io/card/76561198887664830/radical,badge,badges,games,screenshots)](https://github.com/yuyinws/steam-card)
