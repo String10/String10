@@ -10,8 +10,11 @@
 - 💬 Ask me about Python、Java、C/C++, Spring Boot
 - ⚡ Hobby: 🏃、🏸、💻、🎮
 
-<img align="left" height="150" alt="Steam Card" style="max-width: 100%;"
-  src="https://card.yuy1n.io/card/76561198887664830/radical,badge,badges,games,screenshots">
+<img align="left" height="150" alt="Bangumi Card" style="max-width: 100%;"
+  src="http://bgm.tv/chart/img/682895">
+
+<img align="right" height="150" alt="Language Card" style="max-width: 100%;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=String10&layout=compact&theme=transparent">
 
 <img align="right" height="150" alt="Steam Card" style="max-width: 100%;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=String10&layout=compact&theme=transparent">
+  src="https://card.yuy1n.io/card/76561198887664830/radical,badge,badges,games,screenshots">
