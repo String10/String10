@@ -5,10 +5,10 @@
 
 **I'm String S.**
 
-- 🔭 I’m currently studying in China
-- 🌱 I’m currently learning **Vue**
+- 🔭 I’m currently working in China
+- 🌱 I’m currently learning **Japanese**
 - 💬 Ask me about Python、Java、C/C++, Spring Boot
-- ⚡ Hobby: 🏃、🏸、💻、🎮
+- ⚡ Hobby: 🏸、💻、🎮
 
 
 | ACG Life | Steam Status | Most Used Languages |
